@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>App</title>
+  <script src="/jquery/dist/jquery.js"></script>
+  <script src="/lodash/dist/lodash.underscore.js"></script>
+  <script src="/backbone/backbone.js"></script>
+  <script src="/velocity/jquery.velocity.js"></script>
+  <script src="/velocity/velocity.ui.js"></script>
+  <script src="/assets/app.js"></script>
+  <link href="/assets/app.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body>
+<div class='container'>
+  <section id="location-browser">
+    <ul class='lb-nav'>
+    </ul>
+
+    <form class='lb-search'>
+      <div class='lb-location-input'>
+        <label for='location'>Near:</label>
+        <input type='text'
+          name='location'
+          placeholder='Enter an Address, City or Zip Code'>
+      </div>
+      <div class='lb-search-controls'>
+        <a href='#' class='lb-clear-search'>Clear Search</a>
+      </div>
+      <!-- <div class='select distance'> -->
+      <!--   <button class='lb-search-settings'></button> -->
+      <!--   <div class='controls'> -->
+      <!--     <select name='distance'> -->
+      <!--       <option value='5'>5 Miles</option> -->
+      <!--       <option value='10'>10 miles</option> -->
+      <!--       <option value='15'>15 miles</option> -->
+      <!--       <option value='30'>30 miles</option> -->
+      <!--       <option value='50'>50 miles</option> -->
+      <!--     </select> -->
+      <!--   </div> -->
+      <!-- </div> -->
+
+      <!-- <div class='form-actions'> -->
+      <!--   <input type='submit' value='Search' class='btn-mini' > -->
+      <!-- </div> -->
+    </form>
+
+    <div id="lb-map"></div>
+
+  </section>
+    <script type='text/template' id='all-locations-li-template'>
+      <a href='#'>All Locations</a>
+    </script>
+
+    <script type='text/template' id='location-anchor-tag'>
+      <a href="<%= url %>"><%= name %></a>
+    </script>
+
+    <script type='text/template' id='no_location_results_template'>
+      <p>
+        No locations match your criteria
+        <button class='btn'>Reset</button>
+      </p>
+    </script>
+</div>
+</body>
+</html>

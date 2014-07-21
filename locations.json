@@ -1,0 +1,904 @@
+[
+  {
+    "id": 3,
+    "name": "Scripps Green Hospital",
+    "parent_id": 1,
+    "descendant_ids": [
+      132
+    ],
+    "addresses": [
+      {
+        "id": 7084,
+        "address": "10666 N. Torrey Pines Rd. ",
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 32.8982,
+        "lng": -117.243
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-green-hospital"
+  },
+  {
+    "id": 4,
+    "name": "Scripps Memorial Hospital Encinitas",
+    "parent_id": 1,
+    "descendant_ids": [
+      133
+    ],
+    "addresses": [
+      {
+        "id": 7087,
+        "address": "354 Santa Fe Drive ",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.0377,
+        "lng": -117.284
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-memorial-hospital-encinitas"
+  },
+  {
+    "id": 8,
+    "name": "Scripps Memorial Hospital La Jolla",
+    "parent_id": 1,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7089,
+        "address": "9888 Genesee Avenue ",
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 32.8846,
+        "lng": -117.222
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-memorial-hospital-la-jolla"
+  },
+  {
+    "id": 21,
+    "name": "Scripps Mercy Hospital",
+    "parent_id": 1,
+    "descendant_ids": [
+      134,
+      135,
+      143
+    ],
+    "addresses": [
+      {
+        "id": 7085,
+        "address": "4077 5th Avenue ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7511,
+        "lng": -117.161
+      },
+      {
+        "id": 7086,
+        "address": "435 H Street  ",
+        "city": "Chula Vista",
+        "state": "CA",
+        "lat": 32.6338,
+        "lng": -117.083
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-mercy-hospital"
+  },
+  {
+    "id": 74,
+    "name": "Scripps Well Being Center, Chula Vista",
+    "parent_id": 29,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7114,
+        "address": "237 Church Avenue  ",
+        "city": "Chula Vista",
+        "state": "CA",
+        "lat": 32.6438,
+        "lng": -117.08
+      }
+    ],
+    "url": "\/locations\/well-being-centers__scripps-well-being-center-chula-vista"
+  },
+  {
+    "id": 75,
+    "name": "Scripps Well Being Center, Encinitas",
+    "parent_id": 29,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 9673,
+        "address": "Westlake Professional Center 681 Encinitas Blvd, Suite 307",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.037,
+        "lng": -117.292
+      }
+    ],
+    "url": "\/locations\/well-being-centers__scripps-well-being-center-encinitas"
+  },
+  {
+    "id": 76,
+    "name": "Scripps Mende Well Being Center, La Jolla",
+    "parent_id": 29,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7116,
+        "address": "4305 La Jolla Village Drive  Suite L-5",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.8736,
+        "lng": -117.21
+      }
+    ],
+    "url": "\/locations\/well-being-centers__scripps-mende-well-being-center-la-jolla"
+  },
+  {
+    "id": 77,
+    "name": "Scripps City Heights Wellness Center",
+    "parent_id": 29,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7117,
+        "address": "4440 Wightman St. Ste 200",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7484,
+        "lng": -117.099
+      }
+    ],
+    "url": "\/locations\/well-being-centers__scripps-city-heights-wellness-center"
+  },
+  {
+    "id": 131,
+    "name": "Scripps Center for Integrative Medicine",
+    "parent_id": 136,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 27787,
+        "address": "10820 North Torrey Pines Road ",
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 32.9017,
+        "lng": -117.243
+      }
+    ],
+    "url": "\/locations\/specialty-centers__scripps-center-for-integrative-medicine"
+  },
+  {
+    "id": 132,
+    "name": "Physical Rehabilitation",
+    "parent_id": 3,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 29395,
+        "address": "9191 Towne Centre Drive Suite 105",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.8735,
+        "lng": -117.207
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-green-hospital__physical-rehabilitation"
+  },
+  {
+    "id": 133,
+    "name": "Physical Rehabilitation",
+    "parent_id": 4,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 29397,
+        "address": "435 Santa Fe Drive ",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.0361,
+        "lng": -117.283
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-memorial-hospital-encinitas__physical-rehabilitation"
+  },
+  {
+    "id": 134,
+    "name": "San Diego - Physical Rehab",
+    "parent_id": 21,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 29399,
+        "address": "4094 4th Ave. Suite 300",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7516,
+        "lng": -117.162
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-mercy-hospital__san-diego-physical-rehab"
+  },
+  {
+    "id": 135,
+    "name": "Chula Vista - Physical Rehab",
+    "parent_id": 21,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 29404,
+        "address": "450 4th Street Suite 212",
+        "city": "Chula Vista",
+        "state": "CA",
+        "lat": 32.635,
+        "lng": -117.082
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-mercy-hospital__chula-vista-physical-rehab"
+  },
+  {
+    "id": 138,
+    "name": "Scripps Diabetes Center",
+    "parent_id": 136,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 116945,
+        "address": "450 4th Avenue Suite 407",
+        "city": "Chula Vista",
+        "state": "CA",
+        "lat": 32.6349,
+        "lng": -117.082
+      }
+    ],
+    "url": "\/locations\/specialty-centers__scripps-diabetes-center"
+  },
+  {
+    "id": 139,
+    "name": "Scripps Radiation Therapy Center",
+    "parent_id": 136,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 116946,
+        "address": "10670 John Jay Hopkins Drive ",
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 32.8974,
+        "lng": -117.24
+      }
+    ],
+    "url": "\/locations\/specialty-centers__scripps-radiation-therapy-center"
+  },
+  {
+    "id": 140,
+    "name": "Scripps Coastal Medical Center Alvarado Court",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 145266,
+        "address": "6386 Alvarado Court,  Suite 310",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7764,
+        "lng": -117.061
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-alvarado-court"
+  },
+  {
+    "id": 143,
+    "name": "Mercy Clinic",
+    "parent_id": 21,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 230215,
+        "address": "4020 Fifth Avenue  ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7504,
+        "lng": -117.161
+      }
+    ],
+    "url": "\/locations\/hospitals__scripps-mercy-hospital__scripps-mercy-clinic"
+  },
+  {
+    "id": 144,
+    "name": "Scripps Whittier Diabetes Institute",
+    "parent_id": 136,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 253244,
+        "address": "10140 Campus Point Drive ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.8872,
+        "lng": -117.223
+      }
+    ],
+    "url": "\/locations\/specialty-centers__scripps-whittier-diabetes-institute"
+  },
+  {
+    "id": 145,
+    "name": "Scripps Alcohol and Drug Treatment Program",
+    "parent_id": 136,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 310584,
+        "address": "9609 Waples St. ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.9036,
+        "lng": -117.181
+      }
+    ],
+    "url": "\/locations\/specialty-centers__scripps-alcohol-and-drug-treatment-program"
+  },
+  {
+    "id": 1,
+    "name": "Hospitals",
+    "descendant_ids": [
+      3,
+      4,
+      8,
+      21,
+      132,
+      133,
+      134,
+      135,
+      143
+    ],
+    "addresses": [
+      
+    ],
+    "url": "\/locations\/hospitals"
+  },
+  {
+    "id": 57,
+    "name": "Scripps Clinic Carmel Valley",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7091,
+        "address": "3811 Valley Centre Drive ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.9366,
+        "lng": -117.231
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-carmel-valley"
+  },
+  {
+    "id": 2,
+    "name": "Scripps Clinic",
+    "descendant_ids": [
+      57,
+      58,
+      59,
+      61,
+      62,
+      63,
+      64,
+      66,
+      67,
+      68,
+      137
+    ],
+    "addresses": [
+      
+    ],
+    "url": "\/locations\/scripps-clinic"
+  },
+  {
+    "id": 67,
+    "name": "Scripps Clinic Coronado",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7101,
+        "address": "1317-A Ynez Place ",
+        "city": "Coronado",
+        "state": "CA",
+        "lat": 32.6841,
+        "lng": -117.178
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-coronado"
+  },
+  {
+    "id": 119,
+    "name": "Scripps Coastal Medical Center Carlsbad ",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 10466,
+        "address": "2176 Salk Ave. ",
+        "city": "Carlsbad",
+        "state": "CA",
+        "lat": 33.1401,
+        "lng": -117.278
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-carlsbad"
+  },
+  {
+    "id": 66,
+    "name": "Scripps Clinic Del Mar",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 27782,
+        "address": "12395 El Camino Real  ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.9427,
+        "lng": -117.239
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-del-mar"
+  },
+  {
+    "id": 98,
+    "name": "Scripps Coastal Medical Center",
+    "descendant_ids": [
+      114,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      126,
+      140
+    ],
+    "addresses": [
+      
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center"
+  },
+  {
+    "id": 126,
+    "name": "Scripps Coastal Medical Center Del Mar",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 21077,
+        "address": "1335 Camino Del Mar ",
+        "city": "Del Mar",
+        "state": "CA",
+        "lat": 32.9583,
+        "lng": -117.265
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-del-mar"
+  },
+  {
+    "id": 58,
+    "name": "Scripps Clinic Encinitas",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7092,
+        "address": "310 Santa Fe Drive ",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.0362,
+        "lng": -117.284
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-encinitas"
+  },
+  {
+    "id": 120,
+    "name": "Scripps Coastal Medical Center Eastlake",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 10490,
+        "address": "971 Lane Ave. ",
+        "city": "Chula Vista",
+        "state": "CA",
+        "lat": 32.6505,
+        "lng": -116.961
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-eastlake"
+  },
+  {
+    "id": 136,
+    "name": "Specialty Centers",
+    "descendant_ids": [
+      131,
+      138,
+      139,
+      144,
+      145
+    ],
+    "addresses": [
+      
+    ],
+    "url": "\/locations\/specialty-centers"
+  },
+  {
+    "id": 29,
+    "name": "Well Being Centers",
+    "descendant_ids": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "addresses": [
+      
+    ],
+    "url": "\/locations\/well-being-centers"
+  },
+  {
+    "id": 114,
+    "name": "Scripps Coastal Medical Center Encinitas",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 8963,
+        "address": "477 N. El Camino Real ",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.057,
+        "lng": -117.262
+      },
+      {
+        "id": 174598,
+        "address": "345 Saxony Road, Suite 205 ",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.054,
+        "lng": -117.285
+      },
+      {
+        "id": 21325,
+        "address": "332 Santa Fe Dr., Suite 115",
+        "city": "Encinitas",
+        "state": "CA",
+        "lat": 33.0363,
+        "lng": -117.285
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-encinitas"
+  },
+  {
+    "id": 137,
+    "name": "Scripps Clinic Hillcrest",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 83734,
+        "address": "4020 Fifth Avenue Suite 401",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7504,
+        "lng": -117.161
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-hillcrest"
+  },
+  {
+    "id": 68,
+    "name": "Scripps Clinic La Jolla ",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7102,
+        "address": "9333 Genesee Avenue ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.8753,
+        "lng": -117.214
+      },
+      {
+        "id": 27780,
+        "address": "9834 Genesee Avenue ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.884,
+        "lng": -117.226
+      },
+      {
+        "id": 22680,
+        "address": "9850 Genesee Avenue, Suite 600 ",
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 32.883,
+        "lng": -117.226
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-la-jolla"
+  },
+  {
+    "id": 121,
+    "name": "Scripps Coastal Medical Center Escondido",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 12674,
+        "address": "488 E. Valley Pkwy. Suite 411 ",
+        "city": "Escondido",
+        "state": "CA",
+        "lat": 33.1258,
+        "lng": -117.077
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-escondido"
+  },
+  {
+    "id": 59,
+    "name": "Scripps Clinic Mission Valley",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7093,
+        "address": "7425 Mission Valley Road ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7778,
+        "lng": -117.161
+      },
+      {
+        "id": 7094,
+        "address": "7565 Mission Valley Road ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.779,
+        "lng": -117.158
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-mission-valley"
+  },
+  {
+    "id": 61,
+    "name": "Scripps Clinic Rancho Bernardo",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7095,
+        "address": "15004 Innovation Drive ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.989,
+        "lng": -117.077
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-rancho-bernardo"
+  },
+  {
+    "id": 116,
+    "name": "Scripps Coastal Medical Center Hillcrest",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 8966,
+        "address": "501 Washington Street Suites 525 and 600",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.7498,
+        "lng": -117.168
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-hillcrest"
+  },
+  {
+    "id": 122,
+    "name": "Corporate Office",
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 21048,
+        "address": "4275 Campus Point Court ",
+        "city": "San Diego",
+        "state": "CA",
+        "lat": 32.8877,
+        "lng": -117.224
+      }
+    ],
+    "url": "\/locations\/corporate-office"
+  },
+  {
+    "id": 62,
+    "name": "Scripps Clinic Rancho San Diego ",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7096,
+        "address": "10862 Calle Verde ",
+        "city": "La Mesa",
+        "state": "CA",
+        "lat": 32.7479,
+        "lng": -116.959
+      },
+      {
+        "id": 7097,
+        "address": "3835 Avocado Blvd ",
+        "city": "La Mesa",
+        "state": "CA",
+        "lat": 32.749,
+        "lng": -116.962
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-rancho-san-diego"
+  },
+  {
+    "id": 117,
+    "name": "Scripps Coastal Medical Center Oceanside",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 8967,
+        "address": "4318 Mission Avenue ",
+        "city": "Oceanside",
+        "state": "CA",
+        "lat": 33.2302,
+        "lng": -117.311
+      },
+      {
+        "id": 174599,
+        "address": "3998 Vista Way, Suite C-202 ",
+        "city": "Oceanside",
+        "state": "CA",
+        "lat": 33.1842,
+        "lng": -117.293
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-oceanside"
+  },
+  {
+    "id": 63,
+    "name": "Scripps Clinic Santee",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7098,
+        "address": "278 Town Center Parkway Suite 105",
+        "city": "Santee",
+        "state": "CA",
+        "lat": 32.843,
+        "lng": -116.984
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-santee"
+  },
+  {
+    "id": 118,
+    "name": "Scripps Coastal Medical Center Vista",
+    "parent_id": 98,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 8970,
+        "address": "130 Cedar Road ",
+        "city": "Vista",
+        "state": "CA",
+        "lat": 33.1867,
+        "lng": -117.284
+      },
+      {
+        "id": 8971,
+        "address": "2120 Thibodo Road ",
+        "city": "Vista",
+        "state": "CA",
+        "lat": 33.1672,
+        "lng": -117.218
+      }
+    ],
+    "url": "\/locations\/scripps-coastal-medical-center__scripps-coastal-medical-center-vista"
+  },
+  {
+    "id": 64,
+    "name": "Scripps Clinic Torrey Pines",
+    "parent_id": 2,
+    "descendant_ids": [
+      
+    ],
+    "addresses": [
+      {
+        "id": 7099,
+        "address": "10666 North Torrey Pines Road ",
+        "city": "La Jolla",
+        "state": "CA",
+        "lat": 32.8963,
+        "lng": -117.243
+      }
+    ],
+    "url": "\/locations\/scripps-clinic__scripps-clinic-torrey-pines"
+  }
+]
