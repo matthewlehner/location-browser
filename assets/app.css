@@ -667,8 +667,8 @@ input[type=submit], .btn-mini, #location-browser .no-results button, .btn, input
  */
 @font-face {
   font-family: "sparklets";
-  src: url("/fonts/sparklets.eot");
-  src: url("/fonts/sparklets.eot?#iefix") format("embedded-opentype"), url("/fonts/sparklets.woff") format("woff"), url("/fonts/sparklets.ttf") format("truetype"), url("/fonts/sparklets.svg#sparklets") format("svg");
+  src: url("fonts/sparklets.eot");
+  src: url("fonts/sparklets.eot?#iefix") format("embedded-opentype"), url("fonts/sparklets.woff") format("woff"), url("fonts/sparklets.ttf") format("truetype"), url("fonts/sparklets.svg#sparklets") format("svg");
   font-weight: normal;
   font-style: normal; }
 
