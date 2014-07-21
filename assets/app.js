@@ -134,7 +134,7 @@ $(function () {
 
     Locations.prototype.model = Sparkle.Models.Location;
 
-    Locations.prototype.url = '/locations.json';
+    Locations.prototype.url = 'locations.json';
 
     Locations.prototype.initialize = function(options) {
       this.currentParent = options != null ? options['parent'] : void 0;
